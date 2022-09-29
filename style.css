@@ -1,0 +1,41 @@
+html{
+    background-color: cornsilk;
+}
+.box{
+    text-align: center;
+    font-size: xx-large;
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+
+}
+a{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    padding: 12px 20px;
+}
+input[type=text] {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 4px;
+  }
+  body{
+    display: flex;
+    justify-content: space-around;
+  }
+a{
+    
+    width: 100%;
+    border: none;
+    background-color: #04AA6D;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+input{
+    width: 100%;
+}
